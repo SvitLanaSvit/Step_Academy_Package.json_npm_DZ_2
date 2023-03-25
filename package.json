@@ -1,0 +1,27 @@
+{
+  "name": "dz_npm_add_packets_2",
+  "version": "1.0.0",
+  "description": "a core NodeJS concepts illustrations",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js",
+    "dev": "node index.js Svitlana 3002"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SvitLanaSvit/Step_Academy_Package.json_npm_DZ_3.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Svitlana Kizilpinar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SvitLanaSvit/Step_Academy_Package.json_npm_DZ_3/issues"
+  },
+  "homepage": "https://github.com/SvitLanaSvit/Step_Academy_Package.json_npm_DZ_3#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
